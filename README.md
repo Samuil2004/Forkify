@@ -1,3 +1,3 @@
-#Forkify Project
+# Forkify Project
 
 This is a recipe software developed in Java Script, with the help of some other codding languages, which is a web deployed product that gives the user an acess to a very wide range of recipes of all kinds. All users have acess to numerous recipes for different meals, each of which include ingrediets and their amounts. The software sets the number of servings t a fedault values, but allows the user to change it in accordance to her/her preferences and expectations and simultaneously updates the amount of each ingredients needed for the expected servings. Furthermore, each user is given the opportunity to add new own recipes (personal recipes) and bookmark any that he or she liked and wants to test in the future. All bookmarked recipes are stored in the application memory and listed in a special menu in the webpage. In order ot get the most of this software, I would suggest you to try it yourself
